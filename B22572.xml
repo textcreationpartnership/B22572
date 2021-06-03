@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The joyfull convert: represented in a short but elegant sermon preached at the baptizing of a Turke, who renouncing the law of Mahomet, and having given abundant satisfaction for the reasons and soundness of his conversion, was baptized in the French Church May 2. 1658. the Marquis of Montpouillian, and the Lady Adrian de Mayern, being his godfather and godmother. Together with some questions propounded at the same time to the said convert, and some remarkable considerations on them, by John Despagne, minister of the French Church in Westminster.</title>
+            <author>Espagne, Jean d', 1591-1659.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22572</idno><idno type="EEBO-CITATION">99827923</idno>
+  <idno type="VID">192577</idno>
+  <idno type="EEBO-PROQUEST">2240855413</idno>
+  
+            <idno type="STC">Wing E3262A</idno>
+            <idno type="PROQUEST">99827923</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827923e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192577)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1924:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The joyfull convert: represented in a short but elegant sermon preached at the baptizing of a Turke, who renouncing the law of Mahomet, and having given abundant satisfaction for the reasons and soundness of his conversion, was baptized in the French Church May 2. 1658. the Marquis of Montpouillian, and the Lady Adrian de Mayern, being his godfather and godmother. Together with some questions propounded at the same time to the said convert, and some remarkable considerations on them, by John Despagne, minister of the French Church in Westminster.</title>
+                  <author>Espagne, Jean d', 1591-1659.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by I. Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Second leaf signed: A3.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Conversion --  Early works to 1800.</term>
+               <term type="topical_term">Protestant converts --  England --  Early works to 1800.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:192577:1"/>
+            <p>THE Joyfull Convert: Represented in a Short, but Elegant SERMON, Preached at the baptizing of a TURKE, WHO Renouncing the Law of <hi>Mahomet,</hi> and having given abundant satisfaction for the reasons and soundness of his Con<g ref="char:EOLhyphen"/>version, was Baptized in the French Church May 2. 1658. the Marquis of <hi>Mont<g ref="char:EOLhyphen"/>pouill<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n,</hi> and the Lady <hi>Adrian de Mayern,</hi> being his Godfather and Godmother.</p>
+            <p>Together with some Questions propounded at the same time to the said Convert, and some remarkable Considerations on them,</p>
+            <p>By <hi>John Despagne,</hi> Minister of the French Church in <hi>Westminster.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. Leach.</hi> 1658.</p>
+            <pb facs="tcp:192577:2"/>
+            <pb facs="tcp:192577:2"/>
+            <pb facs="tcp:192577:3"/>
+            <pb facs="tcp:192577:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:192577:4"/>
+            <pb n="1" facs="tcp:192577:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Galatians 4.29.</hi>
+                  </bibl>
+                  <p>But as he who was born after the Flesh did per<g ref="char:EOLhyphen"/>secute him who was born after the Spirit, so it is at this present.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Apostle speaketh of <hi>Is<g ref="char:EOLhyphen"/>mael,</hi> and of <hi>Isaac,</hi> the two sons of <hi>Abraham;</hi> the one was born according to the course and order of Na<g ref="char:EOLhyphen"/>ture, the other was begot<g ref="char:EOLhyphen"/>ten by the miraculous power of God: but this is not to be the subject of our present discourse.</p>
+            <p>But to what purpose is it only to under<g ref="char:EOLhyphen"/>stand that <hi>Abraham</hi> had two sons? Certain<g ref="char:EOLhyphen"/>ly the Scripture doth not treat only of their
+<pb n="2" facs="tcp:192577:5"/>persons, their History is of a farr larger ex<g ref="char:EOLhyphen"/>tent than at the first sight it doth appear to be. Two remarkable points do here pre<g ref="char:EOLhyphen"/>ferr themselves to your observation, First, That which is according to the letter, Se<g ref="char:EOLhyphen"/>condly, That which the Apostle hath raised from it, in which he formeth a most excel<g ref="char:EOLhyphen"/>lent Allegory, and we our selves are inclu<g ref="char:EOLhyphen"/>ded in it,</p>
+            <div n="1" type="part">
+               <head>I</head>
+               <p>IT is to be observed that all the Nations in the World do naturally inherit the <hi>Genius</hi> and Disposition of their Parents from whom they proceeded; And if we shall ex<g ref="char:EOLhyphen"/>cept those alterations which by the particu<g ref="char:EOLhyphen"/>lar providence and (moreover) by the grace of God do intervene, every Nation doth partake of the temper and complexion of him who was their first Father, or Patri<g ref="char:EOLhyphen"/>arch. <hi>Esau,</hi> and <hi>Iacob</hi> strugling in the flank of their Mother were already two Nations that made war against one another; And the ge<g ref="char:EOLhyphen"/>nerations that descended from those twins lived alwayes afterwards in a reciprocal ho<g ref="char:EOLhyphen"/>stility.</p>
+               <p>It is known that there are people in <hi>Afri<g ref="char:EOLhyphen"/>ca</hi> who even unto this day do make traffick of their own Children, and do sell them for
+<pb n="3" facs="tcp:192577:5"/>Slaves, never expecting to see them again; It is the great <hi>Mart</hi> they make, and Nations, at a great distance, do resort unto it. We shall find it manifest in the tenth of <hi>Genesis</hi> both by the names and the description of those places where the sons of <hi>Noah</hi> did after the Deluge make their first plantations, hat these Barbarians who did sell their Children to be perpetual vassals were descended from <hi>Cham,</hi> nay even from <hi>Canaan</hi> of whom it was prophesied, that he should be the Servant of the Servants of his Brothers; It is wonder<g ref="char:EOLhyphen"/>full indeed that this malediction having constantly continued through the Traverse of so many Ages, should so unhappily de<g ref="char:EOLhyphen"/>scend even to our dayes, and to fulfill this malediction that this unnatural people should deprive themselves of that which ought to be most pretious to them, selling their Children, their own bowels, to la<g ref="char:EOLhyphen"/>bour in the bowels of the Earth, and to live in a flavery worse than death.</p>
+               <p>There are not the least circumstances ex<g ref="char:EOLhyphen"/>pressed in the lives of the Fathers of the se<g ref="char:EOLhyphen"/>veral Nations of which in some degrees we may not discover a resemblance in their po<g ref="char:EOLhyphen"/>steritie; <hi>Isaac</hi> was younger than <hi>Ismael</hi> by fourteen years, <hi>Iacob</hi> the Son of <hi>Isaac</hi> was a Servant to <hi>Laban</hi> for the space of fourteen yeers, <hi>Joseph</hi> the Son of <hi>Iacob</hi> was the pur<g ref="char:EOLhyphen"/>veyor,
+<pb n="4" facs="tcp:192577:6"/>and afterwards the nourisher of <hi>Aegypt</hi> for fourteen years; From <hi>Abraham</hi> the Father of <hi>Ismael</hi> and of <hi>Isaac</hi> unto the time of <hi>David</hi> there passed fourteen Genera<g ref="char:EOLhyphen"/>tions, <hi>David</hi> being included in the number of them.</p>
+               <p>As concerning the race of <hi>Ismael</hi> it is most apparent that they first did people <hi>Arabia;</hi> And this is manifest both by the names of the persons, and of the places expressed in the five and twentieth Chapter of <hi>Genesis;</hi> It is (besides) remarkable that a great part of the most famous miracles were wrought in that Country, The publication of the Law accompanied with so many wonderful solemnities, the Manna that descended from Heaven, and all the miraculous signs which appeared in the Wildernesse during the so<g ref="char:EOLhyphen"/>journing of the Israelites there, for the space of forty years, were all of them in <hi>Arabia.</hi> Afterwards, miracles were transported into the land of promise; and in processe of time, even to <hi>Babylon,</hi> during the Captivity; yea, after the ascension of Christ, many miracles were wrought in the Countryes of the Gen<g ref="char:EOLhyphen"/>tiles; of which I shall speak only one word.</p>
+               <p>You do never read in the word of God that any miracle was wrought in the City of <hi>Rome. Epaphroditus</hi> a famous Servant of God was sick there even to the death, at
+<pb n="5" facs="tcp:192577:6"/>what time Saint <hi>Paul</hi> (whom <hi>Epaphroditus</hi> served) was there a prisoner, neverthelesse God was not pleased that he should be reco<g ref="char:EOLhyphen"/>vered by a miracle; It is strange that so ma<g ref="char:EOLhyphen"/>ny Cities (which are nothing in comparison of <hi>Rome</hi>) should be enobled by many great miracles, and that the Metropolitan of the Empire which (if we will believe them) ought to be the chief of all the Churches in the World, should never have the honour to see one miracle that hath been mentioned by the Spirit of God.</p>
+               <p>But to return to our subject, the Arabians are descended from <hi>Ismael,</hi> and the execra<g ref="char:EOLhyphen"/>ble <hi>Mahomet</hi> is from him derived. The conformity of their language with the <hi>He<g ref="char:EOLhyphen"/>brew,</hi> The Circumcision which <hi>Ismael</hi> recei<g ref="char:EOLhyphen"/>ved and left to his posterity, and divers other impressions of Antiquity, do confirm that by <hi>Ismael</hi> they are descended from <hi>Abraham.</hi> This Race (under the name of <hi>Saracens</hi>) is since extended (as Experience and Histories do testifie) from <hi>Arabia</hi> to the end of the west of <hi>Africa,</hi> whence this Convert is come unto us whom here you do behold.</p>
+               <p>The persecution of <hi>Ismael</hi> that fell upon <hi>Isaac,</hi> in the one and twentieth of <hi>Genesis,</hi> did proceed from this, that the elder Brother did pretend to the inheritance of his Father. The land of promise was the principal piece
+<pb n="6" facs="tcp:192577:7"/>of it, as in effect, the posterity of <hi>Isaac</hi> did afterwards possess it; neverthelesse (which is remarkable) the Race of <hi>Ismael</hi> in the <hi>Turkish</hi> Empire have now possessed them<g ref="char:EOLhyphen"/>selves of that Country, and have held it for many Generations. Vpon which we ought to consider, that the inheritance promised to <hi>Isaac</hi> and to those descended from him, was properly celestial, of which the land of <hi>Ca<g ref="char:EOLhyphen"/>naan</hi> was but a type or gage; Moreover, the Jews who are descended from <hi>Isaac</hi> have e<g ref="char:EOLhyphen"/>stranged themselves from the free grace of God, and do believe to be justified by their works, as the <hi>Ismaelites</hi> do believe to be justi<g ref="char:EOLhyphen"/>fied by theirs.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II</head>
+               <p>THis is that which brings us unto that which the Apostle aims at; All the men in the World (the true and orthodox Christian excepted) do pretend to be justi<g ref="char:EOLhyphen"/>fied by their works before God. The Jew expects it, the Gentile affects it, the Ma<g ref="char:EOLhyphen"/>hometan aspires unto it, and Christianity ex<g ref="char:EOLhyphen"/>cepted, all Religions do unanimously, and without difference Preach this opinion, an o<g ref="char:EOLhyphen"/>pinion indeed, which is natural, but erroni<g ref="char:EOLhyphen"/>ons and abusive since the fall of man.</p>
+               <p>Behold then two sorts of men in the
+<pb n="7" facs="tcp:192577:7"/>World, the one is natural according to the flesh, pretending unto justification by works. The other is Spiritual according to the pro<g ref="char:EOLhyphen"/>mise of God, knowing that man is justified by Faith in Christ. The first is represented by <hi>Ismael,</hi> the other is figured by <hi>Isaac.</hi> The Jew himself who naturally is descended from <hi>Isaac,</hi> yet neverthelesse doth expect to be justified by works, is an <hi>Ismaelite</hi> in that regard, as the Apostle speaks, and on the o<g ref="char:EOLhyphen"/>ther side the <hi>Ismaelite</hi> who believeth justifi<g ref="char:EOLhyphen"/>cation by Faith is become the Son of <hi>Isaac.</hi>
+               </p>
+               <p>This dispute is not only betwixt the Christian and those who do adhere to other Religions; The same difference is betwixt Christian, and Christian. As there were two several parties in the family of <hi>Abraham;</hi> so the same difference is betwixt those who do professe one and the same Christ: for the one do pretend to justification by works, and the others do intirely attribute it unto Faith in Christ.</p>
+               <p>Moreover <hi>Ismael</hi> persecuted <hi>Isaac</hi> being but young, and the <hi>Mahometans</hi> the poste<g ref="char:EOLhyphen"/>rity of <hi>Ismael</hi> do practise the same at this day; It is well known how under the name of Tribute they do take away the Children of poor Christians, and do tear them from the brests and the arms of their mothers, cau<g ref="char:EOLhyphen"/>sing
+<pb n="8" facs="tcp:192577:8"/>them to drink of the poyson of <hi>Maho<g ref="char:EOLhyphen"/>met,</hi> and to become the Children of Hell.</p>
+               <p>Those who are but half Christians do make nothing of justification, by dividing it be<g ref="char:EOLhyphen"/>twixt the Law and Faith; Terms altogether incompatible; and these are the most violent Persecutors. It is ordinary, that the Jesse the difference is betwixt one Religion and another, the greater is the aversion and the animosity of that man who is found to ad<g ref="char:EOLhyphen"/>here unto the errour; The neerer the prox<g ref="char:EOLhyphen"/>imity, the greater the separation, and the ha<g ref="char:EOLhyphen"/>tred of Spirit. The <hi>Samaritan</hi> was the grea<g ref="char:EOLhyphen"/>test Enemy of the <hi>Iew,</hi> And at this day we are more hated by the Papist than by the Mahometan, and more by the Mahometan than by the Heathen; In this last age, have not the most grievous persecutions which we have suffered, proceeded from those who do call themselves Christians? How much innocent blood have they spilled? Is there amongst them any seat of Iustice, any Field, City, or River, which hath not drunk of their bloud? How many places are there at this day, through which we cannot passe, but through the bloud and ashes of those poor Souls whom the barbarousnesse of those false Christians have newly and violently forced out of the world? Are we not accoun<g ref="char:EOLhyphen"/>ted as abhominable sacrifices, and worthy of
+<pb n="9" facs="tcp:192577:8"/>the extremest punishments? but it is for thy cause, O God, that we are delivered un<g ref="char:EOLhyphen"/>to Death, and that the borrours which thy E<g ref="char:EOLhyphen"/>nemies do vomit forth against thee, do fall upon our heads. The day will come in which that cruel <hi>Babylon</hi> shall see her own Children dashed against the stones.</p>
+               <p>But shall we say that the whole posterity of <hi>Ismael</hi> shall be excluded from salvation? When the holy Spirit did conferr the guift of tongues on the several Nations who were then at <hi>Ierusalem,</hi> the History doth make mention of the <hi>Arabians,</hi> although the last of all, the <hi>Parthians, Medes, Elamites,</hi> and inha<g ref="char:EOLhyphen"/>bitants of <hi>Mesopotamia, Cappadocia, Judaea, Pontus, Asia, Phrigya, Pamphylia, Aegypt, Ly<g ref="char:EOLhyphen"/>bia,</hi> the <hi>Romans, Cretians,</hi> and <hi>Arabians;</hi> And the first Country to which Saint <hi>Paul</hi> after his conversion in <hi>Damascus</hi> did carry the Gospell, wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Arabia, Gal.</hi> 1.17.</p>
+               <p>The smallnesse of the number of those who are converted, doth not hinder the Angels in Heaven from rejoycing. If God should at this present create a new star, but one star only, would it not ravish us all with admiration? How much more is a Soul considerable which God hath taken out of the bottom of Hell to place it in the King<g ref="char:EOLhyphen"/>dom of Heaven? A long time it is since God hath called whole Nations, and hath
+<pb n="10" facs="tcp:192577:9"/>opened wide unto them the great gates of Heaven. There is not any more, either <hi>Iew</hi> or <hi>Grecian</hi> in this respect, but his wrath shall shew it self from Heaven on those who shall refuse to come unto him: At the com<g ref="char:EOLhyphen"/>ming of his Son, all the Generations of the Earth shall lament before him. O, ye Nati<g ref="char:EOLhyphen"/>ons, Tribes, and Languages, prevent the day of his wrath; O that all people would pro<g ref="char:EOLhyphen"/>strate themselves at his feet; That memory might be made of <hi>Palestine,</hi> and <hi>Ethiopia</hi> a<g ref="char:EOLhyphen"/>mongst those that know him; That every knee might bend before him, and that every tongue might confesse, that Jesus Christ is the Lord, to the glory of God the Father.</p>
+            </div>
+         </div>
+         <div type="dramatic_conversion">
+            <p>After the Sermon, and the usual Prayer, the Proselyte (whom we had before in<g ref="char:EOLhyphen"/>structed) did present himself, and these following Questions were pro<g ref="char:EOLhyphen"/>pounded to him, on the greatest part of whose Answers thereunto, we have made some Considerations.</p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>THe change of Religion ought not to be undertaken without some great know<g ref="char:EOLhyphen"/>ledge of the cause. Wherefore do you for<g ref="char:EOLhyphen"/>sake
+<pb n="11" facs="tcp:192577:9"/>the Law of <hi>Mahomet</hi> in which you have been bred?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>It doth not acknowledge the Redemption. It denyeth that Jesus Christ is dead; As for <hi>Mahomet</hi> he dyed not for others.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>He cannot therefore be called a Redeemer. Now the Doctrine of Redemption is the Soul of Religion. There is no Religion there, where the Redemption is denyed, or not understood; The Mahometans denying Christ to be dead do say, that in that they do him more Honour, than we Christians who do affirm that he hath suffered death, yea an ignominious death.</hi>
+            </p>
+            <p>
+               <hi>But in denying him to be dead they take from him the glory of those great Miracles which at his Death he wrought, as the darkning of the Sun, the opening of the Rocks and Sepulchers, the Earthquake, and the tearing of the veyl of Temple; They take from him also the glory of his Resurrection which presupposeth his death, his Resurrection being the greatest miracle that e<g ref="char:EOLhyphen"/>ver he wrought having had the power to lay down his life and afterwards to reassume it, Finally they take from him the glory of our Redemption,
+<pb n="12" facs="tcp:192577:10"/>and from us the benefit of it. These wretches are ignorant that the sufferings of Christ have been the way unto his Glory, for because he did abase himself to the death of the Crosse, God hath highly advanced him, and given him a Name a<g ref="char:EOLhyphen"/>bove all Names.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>Who hath told them that Jesus Christ ne<g ref="char:EOLhyphen"/>ver dyed?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>It is the Doctrine of <hi>Mahomet,</hi> and of all those who have written according to the Alcoran.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>It is observeable that</hi> Mahomet <hi>lived not untill above six hundred yeers after the com<g ref="char:EOLhyphen"/>ming of Christ; All the Histories that have been written before his time, do without the least difference affirm that Jesus Christ was put to death. The Roman Histories written by the Heathen, and who are neutrals in this difference do attest that Jesus Christ (of whom the Chri<g ref="char:EOLhyphen"/>stians do receive their Name) was crucified by</hi> Pilate. <hi>The monuments of the Iews do make
+<pb n="13" facs="tcp:192577:10"/>mention of that death. The Apostles who were with him have published it over all the World; with what brow dares</hi> Mahomet <hi>(who lived ma<g ref="char:EOLhyphen"/>ny ages after him) go about to give the lie to so many unreproveable and Eye witnesses, who all with one voyce do pronounce the truth of his death? Is he more to be believed than those who lived in the same age with him, or than the Iews that did procure his death, or than the Romans that did or<g ref="char:EOLhyphen"/>dain it, or than the Apostles who did behold it, and after his Resurrection did feel the wounds of that body which had been crucified?</hi>
+            </p>
+            <p>
+               <hi>It is remarkeable that</hi> Mahomet <hi>boasteth that he hath received his Doctrine from the An<g ref="char:EOLhyphen"/>gel</hi> Gabriel, <hi>now this is that Angel who</hi> Dan. 9.26. <hi>did foretel that Christ should be put to death, and moreover did expresse the very time, which was then accomplished when our Saviour dyed: Iudge now if he who makes the Angel</hi> Gabriel <hi>a lyar hath been instructed by him.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>What saith <hi>Mahomet</hi> concerning the per<g ref="char:EOLhyphen"/>son of Jesus Christ?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>That he was born of a Virgin, and that
+<pb n="14" facs="tcp:192577:11"/>in Soul and body he is ascended into Hea<g ref="char:EOLhyphen"/>ven.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>These truths ought to open the eyes of those who have been seduced by</hi> Mahomet. <hi>He con<g ref="char:EOLhyphen"/>fesseth that the comming of Christ was miracu<g ref="char:EOLhyphen"/>lous seeing he was born of a Virgin, also that his departing out of the World was glorious seeing he ascended bodily into Heaven, but</hi> Mahomet <hi>himself was born as other men, and is not ascen<g ref="char:EOLhyphen"/>ded into Heaven. His ashes, if any of them yet remain, are still in his Sepulchre, to which those of that blind Religion do yearly run in pilgri<g ref="char:EOLhyphen"/>mage.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>What doth he say farther concernine Je<g ref="char:EOLhyphen"/>sus?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>That he hath wrought great miracles.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>In the Alcoran, the first Azoara of the first book,</hi> Mahomet <hi>confesseth that Iesus was the
+<pb n="15" facs="tcp:192577:11"/>searcher of hearts, that he hath cured the sick of diseases that were incurable, yea that he hath raysed from the dead. But hath</hi> Mahomet <hi>himself ever wrought the least miracle? He confesseth also that Iesus Christ did conferr on his Disciples the miraculons gifts of the Holy Ghost, as that o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tongues, of curing the di<g ref="char:EOLhyphen"/>seased, and others; but</hi> Mahomet <hi>himself was farr enough off from a power so divine.</hi>
+            </p>
+            <sp>
+               <speaker>Question,</speaker>
+               <p>But what saith he concerning the Do<g ref="char:EOLhyphen"/>ctrine of Christ?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>That he was a great prophet.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>In the fifth Azoara</hi> Mahomet <hi>speaketh in these words, God hath given the Gospel to Iesus Christ, as being the way, the light, and the salvation of Men, And those who will not sub<g ref="char:EOLhyphen"/>mit themselves unto him shall be damned.</hi>
+            </p>
+            <p>
+               <hi>We may demand; Why do not then the</hi> Ma<g ref="char:EOLhyphen"/>hometans <hi>imbrace the Gospel? There is a great sophistry of the Devil in it;</hi> Mahomet <hi>acknow<g ref="char:EOLhyphen"/>ledgeth nothing for the Gospel, but that onely
+<pb n="16" facs="tcp:192577:12"/>which he hath inserted into his</hi> Alcoran, <hi>and re<g ref="char:EOLhyphen"/>jecteth all the rest of the New Testament as counterfeit. If this great impostor durst be so bold, he would profes<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> himself to be as antient as the Apostles, who conversed with Jesus Christ, and did see the things of which they wrote. Doth</hi> Mahomet, <hi>who never saw them, know them better than they? All the New Testament which we have was in the world a long time be<g ref="char:EOLhyphen"/>fore the days of</hi> Mahomet: <hi>the New Testa<g ref="char:EOLhyphen"/>ment hath been besides confirmed by an infinite member of Miracles, and by divine and hu<g ref="char:EOLhyphen"/>mane Testimonies; and must we leave them to believe</hi> Mahomet, <hi>who hath curtalled and falsified the Gospel?</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>You have said, That we stand in need of a Redeemer; why is it that he must suffer death for us?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>To satisfie the justice of God.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>The justice of God was pleased, that the sin of man should be expiated by man; but to accom<g ref="char:EOLhyphen"/>plish
+<pb n="17" facs="tcp:192577:12"/>it, there must be a man without sin. This point is of a vast extent, It shall suffice us for the present to have touched on it in few words.</hi>
+            </p>
+            <sp>
+               <speaker>Question</speaker>
+               <p>Having acknowledged that eternal Salva<g ref="char:EOLhyphen"/>tion is not to be found but in the Christian Religion, and the Christians being divided into many Religions, why did not you ad<g ref="char:EOLhyphen"/>dresse your self to the Church of Rome?</p>
+            </sp>
+            <sp>
+               <speaker>Answer</speaker>
+               <p>By reason of the Images to which they kneel, and because they do adore a piece of bread, saying that it is God himself.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>The Mahometans have good reason to abhorr Idols. They reproach the Christians with them, as also with the worshipping of the Virgin</hi> Mary, <hi>and other Saints. This Scandal which is so ge<g ref="char:EOLhyphen"/>neral, is the cause why not only the Mahome<g ref="char:EOLhyphen"/>tans but the Iews also do detest Christianity. O how many Souls hath this Doctrine hindred from comming to Christ? Satan hath found also ano<g ref="char:EOLhyphen"/>ther way from disswading not only them, but the Pagans also from being Christians; for they
+<pb n="18" facs="tcp:192577:13"/>would enjoyn them to believe that what they do behold to be but a little piece of bread, is the li<g ref="char:EOLhyphen"/>ving and the eternal God. Even common sense rejecteth this abomination.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>We know that there is but one God, <hi>M<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>homet</hi> most falsely doth impose upon us that there are three Gods. The three whom we do name in Baptism, <hi>viz.</hi> The Father, the Son, and the Holy Ghost, are they three Gods?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>No, they are onely but one God, and ne<g ref="char:EOLhyphen"/>verthelesse they are distinguished.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>This is an incomprehensible mystery, but there are similitudes which do somewayes represent it unto us. In our Soul, the Vnderstanding, the Memory, and the Will, are distinct things, and yet it is but one Soul; In the Sun, his light, his heat, and his motion are different, and yet it is but one Sun.</hi>
+            </p>
+            <p>Mahomet <hi>is so stupid, that he cannot appre<g ref="char:EOLhyphen"/>hend that God hath a Son; This carnal man
+<pb n="19" facs="tcp:192577:13"/>will acknowledge no other Generation but what is Carnal, yet neverthelesse our soul doth both con<g ref="char:EOLhyphen"/>ceive, and produce.</hi>
+            </p>
+            <p>
+               <hi>The Spirit hath its conceptions, and when it reflecteth on it self, it doth in some sort conceive its self; God who is a Spirit hath conceived and begotten in himself his proper and perfect Image, and by consequence, infinite and eternal, In that respect he is the Father, and that Image or likenesse of himself begotten by him is his Son. And these two have produced a third who is the Holy Ghost, but all these three are but one and the same God.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>Seeing you here present your self to be baptized, tell me, shall that water wash your Soul which by and by shall be powred on your body?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>No, that which doth cleanse us from our sins is the blood of Jesus Christ.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>The Mahometans do believe that in washing their bodies all their Sins are wiped off, and that
+<pb n="20" facs="tcp:192577:14"/>
+                  <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> water carryeth away with it all the enormi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> of their transgressions, for which cause they <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o wash themselves very often, nay, very often in one day; An opinion impious and ridiculous.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>What do you believe concerning Bap<g ref="char:EOLhyphen"/>tism?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>It is a sign of the purging of the Soul in the Bloud of Jesus Christ.</p>
+            </sp>
+            <p>
+               <label>Consideration.</label>
+               <hi>It is truely a sacred sign instituted of God, effectual to those who have the principle of Faith.</hi>
+            </p>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>Do you believe all the Articles of the Christian Faith contained in the Creed which we have heard you to pronounce?</p>
+            </sp>
+            <sp>
+               <pb n="21" facs="tcp:192577:14"/>
+               <speaker>Answer.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Qestion.</speaker>
+               <p>Do you renounce <hi>Mahomet</hi> and his Do<g ref="char:EOLhyphen"/>ctrine?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Question.</speaker>
+               <p>Do you promise to live holily, and religi<g ref="char:EOLhyphen"/>ously according to the word of God?</p>
+            </sp>
+            <sp>
+               <speaker>Answer.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <div type="conclusion">
+               <pb n="22" facs="tcp:192577:15"/>
+               <p>After this Examination of the Convert, this follow<g ref="char:EOLhyphen"/>ing Prayer was made.</p>
+               <p>O Eternal God, how wonderful art thou in thy works! Thou hast been found by those who have not sought thee; Thy grace hath prevented their thoughts. It is neither from him that willeth, nor from him that runneth, but from thy mercy a<g ref="char:EOLhyphen"/>lone that Salvation doth proceed. It is neither from the <hi>West,</hi> nor from the <hi>East,</hi> but from thy wonderful dispen<g ref="char:EOLhyphen"/>sation; when it pleaseth thee, thou stretchest forth thy arm from the height of Heavens to the bottom of the Abysm, to pluck out those who were already on the brink of Hell; O God who hast commanded that light should shine in the midst of darknesse,
+<pb n="23" facs="tcp:192577:15"/>inlighten the flames of thy truth a<g ref="char:EOLhyphen"/>mongst those who do lie in the valley of the shade of Death, that the most barbarous people may see the wayes &amp; traces of thy Christ; that the pavili<g ref="char:EOLhyphen"/>ons of <hi>Ismael,</hi> and of <hi>Midian</hi> may be shaken, that the sheep which are not yet in thy fold may henceforth be brought into it.</p>
+               <p>Behold here a Soul which prostrates it self at thy feet to be washed in the bloud of thy holy Son Iesus, in the blood of that sprinkling which speak<g ref="char:EOLhyphen"/>eth for Sinners; be pleased to pardon this poor Sinner that is here present; pardon the faults committed by him in the time of his ignorance; cause thou the Scales to fast from his eyes. Cre<g ref="char:EOLhyphen"/>ate in him a new heart, that being a new Creature he may walk in righte<g ref="char:EOLhyphen"/>ousnesse and holinesse. Cause thou that the Baptism which according to thy ordinance we do conferr upon him be effectual to his salvation, that it may redound to the glory of thy great name, to the joy of thy Angels, and
+<pb n="24" facs="tcp:192577:16"/>and to the comfort of those who love thy Anointed who is blessed for ever<g ref="char:EOLhyphen"/>more.</p>
+               <p>
+                  <hi>Immediately after this Prayer, the Convert being on his knees was baptized, presen<g ref="char:EOLhyphen"/>ted by Monsieur</hi> Armand <hi>of</hi> Caumont <hi>Marquis of</hi> Montpouillan, <hi>and the Lady</hi> Adrian de Mayern <hi>who were his Godfather and Godmother, from whom he received the name of</hi> Armand Adrian.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:192577:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
